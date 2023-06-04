@@ -15,7 +15,7 @@
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
-- 📫 How to reach me Avivasulin1211@gmail.com 
+- 📫 How to reach me Yuvavi21@gmail.com 
  
 ## 🚀 Languages and Tools:
  
@@ -43,7 +43,7 @@
  
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/avivasulin7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "http://linkedin.com/in/yuval-avitan-057381246"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## :fire: My Stats :
